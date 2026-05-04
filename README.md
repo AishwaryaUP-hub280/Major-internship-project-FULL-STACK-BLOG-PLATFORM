@@ -1,20 +1,19 @@
 # Full Stack Blog Platform
 
 ## 📌 Project Description
-This project is a full stack blog platform where users can:
-- Register and Login
-- Create, Read, Update, Delete blog posts
+This is a full stack blog application where users can register, login and manage blogs.
+
+## 🚀 Features
+- User Authentication (JWT)
+- Create, Read, Update, Delete Blogs
+- Secure API Routes
+- MongoDB Database
 
 ## 🛠 Tech Stack
 - Frontend: React.js
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- API Testing: Postman
-
-## 🚀 Features
-- JWT Authentication
-- CRUD Operations on Blogs
-- Secure API Routes
+- Testing: Postman
 
 ## ▶️ How to Run
 
