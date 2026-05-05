@@ -25,11 +25,7 @@ node server.js
 ### Frontend
 cd frontend  
 npm install  
-npm start  
-
-## 🌐 URLs
-- Frontend: http://localhost:3000  
-- Backend: http://localhost:5000  
+npm start
 
 ## 👩‍💻 Author
 Aishwarya U P
