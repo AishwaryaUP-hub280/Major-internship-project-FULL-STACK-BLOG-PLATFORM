@@ -27,5 +27,9 @@ cd frontend
 npm install  
 npm start
 
+=>>>URL's
+http://localhost:3000/
+http://localhost:5000/
+
 ## 👩‍💻 Author
 Aishwarya U P
