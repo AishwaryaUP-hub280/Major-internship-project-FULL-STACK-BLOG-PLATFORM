@@ -16,7 +16,7 @@ const postRoutes = require("./routes/post");
 app.use("/api/auth", authRoutes);
 app.use("/api/posts", postRoutes);
 
-// ✅ ROOT ROUTE (FIX FOR "Cannot GET /")
+// ✅ ROOT ROUTE
 app.get("/", (req, res) => {
   res.send("API is running...");
 });
